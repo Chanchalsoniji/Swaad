@@ -39,8 +39,3 @@ Install dependencies
   npm install
 ```
 
-
-## Author
-
-- [Shreeram Goyal](https://github.com/sirgoyal/)
-
